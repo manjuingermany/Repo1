@@ -1,4 +1,5 @@
 my first file in git
+updated in the branch
 2nd file added
 
 making changes to the branch file
