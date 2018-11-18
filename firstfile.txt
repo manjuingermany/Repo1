@@ -1,2 +1,3 @@
 my first file in git
+in master
 2nd file added
