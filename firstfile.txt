@@ -1,3 +1,7 @@
 my first file in git
+updated in the branch
+=======
 in master
 2nd file added
+
+making changes to the branch file
